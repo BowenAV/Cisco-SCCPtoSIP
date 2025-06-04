@@ -6,9 +6,8 @@ Forked From [usecallmanagernz/tftpboot](https://github.com/usecallmanagernz/tftp
 Added Ringtones
 Added Firmware for Cisco: <br>
 6921, 
-7821, 
-7911, 7912, 7940, 7941, 7942, *7945 (Non G)*, 
-7960, 7961, 7962, and *7965 (Non G)*
+7911, 7912, 7940, 7941, 7942, 7945, 
+7960, 7961, 7962, and 7965
 
 See [SEPMAC.cnf.xml](http://usecallmanager.nz/sepmac-cnf-xml.html),
 [Dial Templates](http://usecallmanager.nz/dial-template-xml.html),
